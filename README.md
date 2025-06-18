@@ -50,10 +50,13 @@
 > _GitLab does not provide account-wide dynamic widgets like GitHub. Click the badge above to visit my GitLab profile!_
 
 ---
+
 ### Try To Hack Me
 
 [![TryHackMe Public Badge](https://tryhackme-badges.s3.amazonaws.com/MisterMeherab.png)](https://tryhackme.com/p/MisterMeherab)
+
 ---
+
 ## 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-MisterMeherab-white?&logo=github)](https://github.com/MisterMeherab)
