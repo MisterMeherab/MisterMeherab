@@ -1,7 +1,7 @@
 # 🚀 MisterMeherab
 
 <p align="center">
-  <img src="./assets/fire.jpg" alt="Meherab Logo" width="140" style="border-radius: 50%; box-shadow: 0 0 32px #ff9800, 0 0 64px #ff9800; border: 4px solid #fff; margin-bottom: 0.5em;" />
+  <img src="./assets/fire-circle.jpeg" alt="Meherab Logo" width="140" style="border-radius: 50%; box-shadow: 0 0 32px #ff9800, 0 0 64px #ff9800; border: 4px solid #fff; margin-bottom: 0.5em;" />
 </p>
 
 <p align="center">
