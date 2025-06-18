@@ -1,12 +1,6 @@
-# 🚀 MisterMeherab
+![Meherab Logo](./assets/logo.jpeg)
 
-<p align="center">
-  <img src="./assets/logo.jpeg" alt="Meherab Logo" width="140" style="border-radius: 50%; box-shadow: 0 0 32px #ff9800, 0 0 64px #ff9800; border: 4px solid #fff; margin-bottom: 0.5em;" />
-</p>
-
-<p align="center">
-  <b>Every beginning starts from "Blank"</b>
-</p>
+# Every beginning starts from "Blank"
 
 ---
 
@@ -16,20 +10,23 @@
 
 ---
 
-### 🌟 GitHub Stats
+### 🌟 GitHub Account Stats
 
-| ![Followers](https://img.shields.io/github/followers/MisterMeherab?label=Followers&style=social) | ![Stars](https://img.shields.io/github/stars/MisterMeherab?label=Stars&style=social) | ![Watchers](https://img.shields.io/github/watchers/MisterMeherab?label=Watchers&style=social) |
-|---|---|---|
-| ![Issues](https://img.shields.io/github/issues/MisterMeherab/MisterMeherab?label=Issues) | ![Closed Issues](https://img.shields.io/github/issues-closed/MisterMeherab/MisterMeherab?label=Closed%20Issues) | ![Open PRs](https://img.shields.io/github/pull-requests/MisterMeherab/MisterMeherab?label=Open%20PRs) |
-| ![Last Commit](https://img.shields.io/github/last-commit/MisterMeherab/MisterMeherab?label=Last%20Commit) | ![Repo Size](https://img.shields.io/github/repo-size/MisterMeherab/MisterMeherab?label=Repo%20Size) | ![Top Language](https://img.shields.io/github/languages/top/MisterMeherab/MisterMeherab?label=Top%20Language) |
-| ![Languages Count](https://img.shields.io/github/languages/count/MisterMeherab/MisterMeherab?label=Languages) | ![License](https://img.shields.io/github/license/MisterMeherab/MisterMeherab?label=License) | ![Monthly Commits](https://img.shields.io/github/commit-activity/m/MisterMeherab/MisterMeherab?label=Monthly%20Commits) |
-| ![Contributors](https://img.shields.io/github/contributors/MisterMeherab/MisterMeherab?label=Contributors) | ![Profile Views](https://komarev.com/ghpvc/?username=MisterMeherab&label=Profile%20views&color=0e75b6&style=flat) | ![Commit Activity](https://img.shields.io/github/commit-activity/y/MisterMeherab/MisterMeherab) |
-| ![Code Size](https://img.shields.io/github/languages/code-size/MisterMeherab/MisterMeherab) | ![Release](https://img.shields.io/github/v/release/MisterMeherab/MisterMeherab) | ![All Releases](https://img.shields.io/github/downloads/MisterMeherab/MisterMeherab/total) |
-| ![Closed PRs](https://img.shields.io/github/issues-pr-closed/MisterMeherab/MisterMeherab) | ![Open PRs](https://img.shields.io/github/issues-pr/MisterMeherab/MisterMeherab) | ![Repo Created](https://img.shields.io/date/1588291200?label=Repo%20Created&color=blue) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisterMeherab&show_icons=true&theme=github_dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MisterMeherab&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterMeherab&layout=compact&theme=github_dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MisterMeherab&theme=darkhub&no-frame=true&margin-w=10)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MisterMeherab.MisterMeherab)
 
 ---
 
-### 🦊 GitLab Stats
+### 🦊 GitLab Account Stats
+
+> _GitLab does not provide account-wide dynamic widgets like GitHub, but you can show project-level stats as below:_
 
 | ![Stars](https://img.shields.io/gitlab/stars/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) | ![Forks](https://img.shields.io/gitlab/forks/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) | ![Issues](https://img.shields.io/gitlab/issues/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) |
 |---|---|---|
@@ -39,12 +36,19 @@
 
 ### 💡 Coding & Community
 
-| ![Stack Overflow rep](https://img.shields.io/stackexchange/stackoverflow/r/39304416?label=Stack%20Overflow%20rep&logo=stack-overflow) | ![Stack Overflow questions](https://img.shields.io/stackexchange/stackoverflow/q/39304416?label=Stack%20Overflow%20questions&logo=stack-overflow) | ![Stack Exchange rep](https://img.shields.io/stackexchange/stackexchange/r/39304416?label=Stack%20Exchange%20rep&logo=stack-exchange) |
-|---|---|---|
-| ![Dev.to followers](https://img.shields.io/dev.to/followers/mistermeherab?logo=devdotto) | ![Medium followers](https://img.shields.io/medium/followers/@mistermeherab?logo=medium) | ![Codewars rank](https://www.codewars.com/users/MisterMeherab/badges/large) |
-| ![LeetCode user stats](https://img.shields.io/leetcode/stars/MisterMeherab?logo=leetcode) | ![HackerRank user stats](https://img.shields.io/hackerrank/users/MisterMeherab/badges/large) | ![Codeforces user rating](https://img.shields.io/codeforces/rating/MisterMeherab?logo=codeforces) |
-| ![TryHackMe badges](https://img.shields.io/badge/dynamic/json?color=green&label=TryHackMe&query=%24.rank&url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2FMisterMeherab) | ![Spotify recently played](https://img.shields.io/spotify/playing?user=MisterMeherab) | ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MisterMeherab) |
-| ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=MisterMeherab&theme=darkhub&no-frame=true&margin-w=10) | ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MisterMeherab.MisterMeherab) |  |
+![Stack Overflow Stats](https://img.shields.io/stackexchange/stackoverflow/r/39304416?label=Stack%20Overflow%20rep&logo=stack-overflow)
+![Stack Overflow Questions](https://img.shields.io/stackexchange/stackoverflow/q/39304416?label=Stack%20Overflow%20questions&logo=stack-overflow)
+![Stack Exchange Rep](https://img.shields.io/stackexchange/stackexchange/r/39304416?label=Stack%20Exchange%20rep&logo=stack-exchange)
+
+![Dev.to followers](https://img.shields.io/dev.to/followers/mistermeherab?logo=devdotto)
+![Medium followers](https://img.shields.io/medium/followers/@mistermeherab?logo=medium)
+![Codewars rank](https://www.codewars.com/users/MisterMeherab/badges/large)
+![LeetCode user stats](https://img.shields.io/leetcode/stars/MisterMeherab?logo=leetcode)
+![HackerRank user stats](https://img.shields.io/hackerrank/users/MisterMeherab/badges/large)
+![Codeforces user rating](https://img.shields.io/codeforces/rating/MisterMeherab?logo=codeforces)
+![TryHackMe badges](https://img.shields.io/badge/dynamic/json?color=green&label=TryHackMe&query=%24.rank&url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2FMisterMeherab)
+![Spotify recently played](https://img.shields.io/spotify/playing?user=MisterMeherab)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MisterMeherab)
 
 ---
 
