@@ -45,9 +45,7 @@
 
 ### 🦊 GitLab Account
 
-[![GitLab Profile](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/MisterMeherab)
-![GitLab Followers](https://img.shields.io/gitlab/followers/MisterMeherab?gitlab_url=https://gitlab.com)
-![GitLab Projects](https://img.shields.io/badge/dynamic/json?color=orange&label=Projects&query=$.length&url=https://gitlab.com/api/v4/users/MisterMeherab/projects)
+[![GitLab](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab)](https://gitlab.com/MisterMeherab)
 
 > _GitLab does not provide account-wide dynamic widgets like GitHub. Click the badge above to visit my GitLab profile!_
 
@@ -58,14 +56,14 @@
 ---
 ## 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MisterMeherab)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/mistermeherab)
+[![GitHub](https://img.shields.io/badge/GitHub-MisterMeherab-white?&logo=github)](https://github.com/MisterMeherab)
+[![GitLab](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab)](https://gitlab.com/MisterMeherab)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MisterMeherab)](https://x.com/MisterMeherab)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@MisterMeherab)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1334188709465030668)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/mistermeherab.bsky.social)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://mistermeherab.com)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mistermeherab.com)
+[![YouTube](https://img.shields.io/badge/YouTube-MisterMeherab-red?logo=youtube)](https://youtube.com/@MisterMeherab)
+[![Discord](https://img.shields.io/badge/Discord-MisterMeherab-7289DA?logo=discord)](https://discord.com/users/1334188709465030668)
+[![Bluesky](https://img.shields.io/badge/Bluesky-MisterMeherab-blue?logo=bluesky)](https://bsky.app/profile/mistermeherab.bsky.social)
+[![Website](https://img.shields.io/badge/Website-MisterMeherab-black?logo=About.me)](https://mistermeherab.com)
+[![Mail](https://img.shields.io/badge/Email-MisterMeherab-black?logo=email)](mailto:contact@mistermeherab.com)
 [![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/large)](https://www.codewars.com/users/MisterMeherab)
 
 ---
