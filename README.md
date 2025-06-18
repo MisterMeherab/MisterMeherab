@@ -18,7 +18,7 @@
 
 ### 🌌 Exploring the Universe of Code
 
-### 📝 About Me 🌟 GitHub Account Stats
+## 📝 About Me 🌟 GitHub Account Stats
 
 <!-- GitHub Stats -->
 ![GitHub Stats (Commits)](https://github-readme-stats.vercel.app/api?username=MisterMeherab&show_icons=true&include_all_commits=false&theme=github_dark&show=prs,issues,followers,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
