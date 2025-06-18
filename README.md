@@ -1,6 +1,21 @@
-![Meherab Logo](./assets/logo.jpeg)
-
 # Every beginning starts from "Blank"
+
+```
+   (  )   (   )  )
+    ) (   )  (  (
+    ( )  (    ) )
+    _____________
+   <__MisterMeherab__>
+   /             \
+  /               \
+ /                 \
+---------------------
+        |  |
+        |  |
+        |  |
+        |  |
+      __|  |__
+```
 
 ---
 
