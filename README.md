@@ -9,7 +9,7 @@
 ### 🌟 GitHub Account Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats (Commits)](https://github-readme-stats.vercel.app/api?username=MisterMeherab&show_icons=true&include_all_commits=true&theme=github_dark&show=prs,issues,followers,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub Stats (Commits)](https://github-readme-stats.vercel.app/api?username=MisterMeherab&show_icons=true&include_all_commits=false&theme=github_dark&show=prs,issues,followers,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![GitHub Stats (Rank)](https://github-readme-stats.vercel.app/api?username=MisterMeherab&show_icons=true&rank_icon=percentile&theme=github_dark)
 
