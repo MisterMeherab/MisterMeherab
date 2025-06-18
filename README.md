@@ -1,25 +1,6 @@
-# Every beginning starts from "Blank"
+# 👋 Hi, I'm Meherab
 
-```
-   (  )   (   )  )
-    ) (   )  (  (
-    ( )  (    ) )
-    _____________
-   <__MisterMeherab__>
-   /             \
-  /               \
- /                 \
----------------------
-        |  |
-        |  |
-        |  |
-        |  |
-      __|  |__
-```
-
----
-
-## 👋 Hi, I'm Meherab
+## ✨ Every beginning starts from "Blank"
 
 > _"Turning sparks of curiosity into blazing projects!"_
 
@@ -39,39 +20,19 @@
 
 ---
 
-### 🦊 GitLab Account Stats
+### 🦊 GitLab Account
 
-> _GitLab does not provide account-wide dynamic widgets like GitHub, but you can show project-level stats as below:_
+[![GitLab Profile](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/MisterMeherab)
 
-| ![Stars](https://img.shields.io/gitlab/stars/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) | ![Forks](https://img.shields.io/gitlab/forks/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) | ![Issues](https://img.shields.io/gitlab/issues/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) |
-|---|---|---|
-| ![Last Commit](https://img.shields.io/gitlab/last-commit/MisterMeherab/mistermeherab.com?gitlab_url=https://gitlab.com) | ![Pipeline Status](https://img.shields.io/gitlab/pipeline-status/MisterMeherab/mistermeherab.com/main?gitlab_url=https://gitlab.com) |  |
-
----
-
-### 💡 Coding & Community
-
-![Stack Overflow Stats](https://img.shields.io/stackexchange/stackoverflow/r/39304416?label=Stack%20Overflow%20rep&logo=stack-overflow)
-![Stack Overflow Questions](https://img.shields.io/stackexchange/stackoverflow/q/39304416?label=Stack%20Overflow%20questions&logo=stack-overflow)
-![Stack Exchange Rep](https://img.shields.io/stackexchange/stackexchange/r/39304416?label=Stack%20Exchange%20rep&logo=stack-exchange)
-
-![Dev.to followers](https://img.shields.io/dev.to/followers/mistermeherab?logo=devdotto)
-![Medium followers](https://img.shields.io/medium/followers/@mistermeherab?logo=medium)
-![Codewars rank](https://www.codewars.com/users/MisterMeherab/badges/large)
-![LeetCode user stats](https://img.shields.io/leetcode/stars/MisterMeherab?logo=leetcode)
-![HackerRank user stats](https://img.shields.io/hackerrank/users/MisterMeherab/badges/large)
-![Codeforces user rating](https://img.shields.io/codeforces/rating/MisterMeherab?logo=codeforces)
-![TryHackMe badges](https://img.shields.io/badge/dynamic/json?color=green&label=TryHackMe&query=%24.rank&url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2FMisterMeherab)
-![Spotify recently played](https://img.shields.io/spotify/playing?user=MisterMeherab)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MisterMeherab)
+> _GitLab does not provide account-wide dynamic widgets like GitHub. Click the badge above to visit my GitLab profile!_
 
 ---
 
 ## 👨‍💻 Now
 
-- Building cool projects
-- Learning new technologies
-- Collaborating with the community
+- 🚀 Building cool projects
+- 📚 Learning new technologies
+- 🤝 Collaborating with the community
 
 ---
 
@@ -97,19 +58,12 @@
 
 ---
 
-<!-- More dynamic badges and integrations -->
+### 💡 Coding & Community
 
-![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/39304416?label=Stack%20Overflow%20rep&logo=stack-overflow)
-![Stack Overflow questions](https://img.shields.io/stackexchange/stackoverflow/q/39304416?label=Stack%20Overflow%20questions&logo=stack-overflow)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackexchange/r/39304416?label=Stack%20Exchange%20rep&logo=stack-exchange)
-![Dev.to followers](https://img.shields.io/dev.to/followers/mistermeherab?logo=devdotto)
-![Medium followers](https://img.shields.io/medium/followers/@mistermeherab?logo=medium)
-![Codewars rank](https://www.codewars.com/users/MisterMeherab/badges/large)
-![LeetCode user stats](https://img.shields.io/leetcode/stars/MisterMeherab?logo=leetcode)
-![HackerRank user stats](https://img.shields.io/hackerrank/users/MisterMeherab/badges/large)
-![Codeforces user rating](https://img.shields.io/codeforces/rating/MisterMeherab?logo=codeforces)
-![TryHackMe badges](https://img.shields.io/badge/dynamic/json?color=green&label=TryHackMe&query=%24.rank&url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2FMisterMeherab)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MisterMeherab)
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=MisterMeherab&theme=darkhub&no-frame=true&margin-w=10)
+![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/large)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MisterMeherab)
+[![TryHackMe Public Badge](https://tryhackme-badges.s3.amazonaws.com/MisterMeherab.png)](https://tryhackme.com/p/MisterMeherab)
 
-<!-- You can add more by integrating with other APIs or badge services! -->
+---
+
+> _Thank you for visiting my profile! Let's connect and create something amazing together!_
