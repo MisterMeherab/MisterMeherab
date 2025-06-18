@@ -58,7 +58,12 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MisterMeherab-white?&logo=github)](https://github.com/MisterMeherab)
 [![GitLab](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab)](https://gitlab.com/MisterMeherab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-MisterMeherab-white?&logo=leetcode)](https://leetcode.com/u/MisterMeherab/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-MisterMeherab-white?&logo=devdototo)](https://dev.to/mistermeherab)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-MisterMeherab-orange?logo=stackoverflow)](https://stackoverflow.com/users/30835032/mistermeherab)
+[![Wonderful.dev](https://img.shields.io/badge/Wonderful.dev-MisterMeherab-white?&logo=wonderful.dev)](https://wonderful.dev/MisterMeherab)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MisterMeherab)](https://x.com/MisterMeherab)
+[![Reddit](https://img.shields.io/badge/Reddit-MisterMeherab-red?&logo=reddit)](https://www.reddit.com/user/MisterMeherab/)
 [![YouTube](https://img.shields.io/badge/YouTube-MisterMeherab-red?logo=youtube)](https://youtube.com/@MisterMeherab)
 [![Discord](https://img.shields.io/badge/Discord-MisterMeherab-7289DA?logo=discord)](https://discord.com/users/1334188709465030668)
 [![Bluesky](https://img.shields.io/badge/Bluesky-MisterMeherab-blue?logo=bluesky)](https://bsky.app/profile/mistermeherab.bsky.social)
