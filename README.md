@@ -84,7 +84,7 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-MisterMeherab-blue?logo=bluesky)](https://bsky.app/profile/mistermeherab.bsky.social)
 [![Website](https://img.shields.io/badge/Website-MisterMeherab-black?logo=About.me)](https://mistermeherab.com)
 [![Mail](https://img.shields.io/badge/Email-MisterMeherab-black?logo=email)](mailto:contact@mistermeherab.com)
-[![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/large)](https://www.codewars.com/users/MisterMeherab)
+[![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/micro)](https://www.codewars.com/users/MisterMeherab)
 
 ---
 
