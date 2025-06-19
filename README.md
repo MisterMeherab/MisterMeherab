@@ -69,22 +69,33 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-MisterMeherab-white?&logo=github)](https://github.com/MisterMeherab)
-[![GitLab](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab)](https://gitlab.com/MisterMeherab)
-[![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/micro)](https://www.codewars.com/users/MisterMeherab)
-[![Dev.to](https://img.shields.io/badge/Dev.to-MisterMeherab-white?&logo=devdototo)](https://dev.to/mistermeherab)
-[![Wonderful.dev](https://img.shields.io/badge/Wonderful.dev-MisterMeherab-white?&logo=wonderful.dev)](https://wonderful.dev/MisterMeherab)
-[![LeetCode](https://img.shields.io/badge/LeetCode-MisterMeherab-white?&logo=leetcode)](https://leetcode.com/u/MisterMeherab/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-MisterMeherab-orange?logo=stackoverflow)](https://stackoverflow.com/users/30835032/mistermeherab)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MisterMeherab)](https://x.com/MisterMeherab)
-[![Reddit](https://img.shields.io/badge/Reddit-MisterMeherab-red?&logo=reddit)](https://www.reddit.com/user/MisterMeherab/)
-[![YouTube](https://img.shields.io/badge/YouTube-MisterMeherab-red?logo=youtube)](https://youtube.com/@MisterMeherab)
-[![Discord](https://img.shields.io/badge/Discord-MisterMeherab-7289DA?logo=discord)](https://discord.com/users/1334188709465030668)
-[![Bluesky](https://img.shields.io/badge/Bluesky-MisterMeherab-blue?logo=bluesky)](https://bsky.app/profile/mistermeherab.bsky.social)
-[![Website](https://img.shields.io/badge/Website-MisterMeherab-black?logo=About.me)](https://mistermeherab.com)
-[![Mail](https://img.shields.io/badge/Email-MisterMeherab-black?logo=email)](mailto:contact@mistermeherab.com)
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MisterMeherab)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MisterMeherab)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/MisterMeherab)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mistermeherab)
+[![Wonderful.dev](https://img.shields.io/badge/Wonderful.dev-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://wonderful.dev/MisterMeherab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MisterMeherab/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30835032/mistermeherab)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MisterMeherab)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MisterMeherab/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MisterMeherab)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1334188709465030668)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mistermeherab.bsky.social)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mistermeherab.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mistermeherab.com)
+
+</div>
+
+---
+
+**Email:** [contact@mistermeherab.com](mailto:contact@mistermeherab.com)  
+**Website:** [mistermeherab.com](https://mistermeherab.com)
 
 ---
 
