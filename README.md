@@ -73,10 +73,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MisterMeherab-white?&logo=github)](https://github.com/MisterMeherab)
 [![GitLab](https://img.shields.io/badge/GitLab-MisterMeherab-orange?logo=gitlab)](https://gitlab.com/MisterMeherab)
-[![LeetCode](https://img.shields.io/badge/LeetCode-MisterMeherab-white?&logo=leetcode)](https://leetcode.com/u/MisterMeherab/)
+[![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/micro)](https://www.codewars.com/users/MisterMeherab)
 [![Dev.to](https://img.shields.io/badge/Dev.to-MisterMeherab-white?&logo=devdototo)](https://dev.to/mistermeherab)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-MisterMeherab-orange?logo=stackoverflow)](https://stackoverflow.com/users/30835032/mistermeherab)
 [![Wonderful.dev](https://img.shields.io/badge/Wonderful.dev-MisterMeherab-white?&logo=wonderful.dev)](https://wonderful.dev/MisterMeherab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-MisterMeherab-white?&logo=leetcode)](https://leetcode.com/u/MisterMeherab/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-MisterMeherab-orange?logo=stackoverflow)](https://stackoverflow.com/users/30835032/mistermeherab)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MisterMeherab)](https://x.com/MisterMeherab)
 [![Reddit](https://img.shields.io/badge/Reddit-MisterMeherab-red?&logo=reddit)](https://www.reddit.com/user/MisterMeherab/)
 [![YouTube](https://img.shields.io/badge/YouTube-MisterMeherab-red?logo=youtube)](https://youtube.com/@MisterMeherab)
@@ -84,7 +85,6 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-MisterMeherab-blue?logo=bluesky)](https://bsky.app/profile/mistermeherab.bsky.social)
 [![Website](https://img.shields.io/badge/Website-MisterMeherab-black?logo=About.me)](https://mistermeherab.com)
 [![Mail](https://img.shields.io/badge/Email-MisterMeherab-black?logo=email)](mailto:contact@mistermeherab.com)
-[![Codewars Rank](https://www.codewars.com/users/MisterMeherab/badges/micro)](https://www.codewars.com/users/MisterMeherab)
 
 ---
 
