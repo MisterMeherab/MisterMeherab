@@ -6,32 +6,39 @@
 
 ### 🛠️ Core Stack
 
-💻 **Languages**
-- Systems: C/C++, Rust, Assembly
-- Scripting: Lua, Shell (Bash/Zsh)
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-⌨️ **Development**
-- Editor: [Neovim](https://neovim.io)
-- VCS: [Git](https://git-scm.com)
-- Build: [Make](https://www.gnu.org/software/make), [CMake](https://cmake.org), [Ninja](https://ninja-build.org)
+**Development**  
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-6428B4?style=for-the-badge&logo=ninja&logoColor=white)
 
-🌐 **Infrastructure**
-- Web: [Nginx](https://nginx.org)
-- Containers: [Docker](https://docker.com) 🐳
-- Orchestration: [Kubernetes](https://kubernetes.io) ☸️
+**Infrastructure**  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-🗄️ **Databases**
-- SQL: [PostgreSQL](https://postgresql.org) 🐘
-- NoSQL: [MongoDB](https://mongodb.com) 🍃
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-⚡ **DevOps**
-- CI/CD: [GitLab CI](https://gitlab.com) 🦊
-- Git Server: [Gitea](https://gitea.io)
-- Monitoring: [Prometheus](https://prometheus.io) + [Grafana](https://grafana.com) 📊
+**DevOps**  
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-🐧 **Operating Systems**
-- Personal: [Arch Linux](https://archlinux.org)
-- Server: [Ubuntu](https://ubuntu.com)
+**Operating Systems**  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 💡 Expertise
 
@@ -46,7 +53,8 @@ Learning, Building robust, efficient systems with a focus on performance and rel
 
 ---
 
-[🌐 Website](https://mistermeherab.com) | [📂 Projects](https://github.com/MisterMeherab?tab=repositories)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://mistermeherab.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MisterMeherab)
 
 ## 💻 Collaboration
 
