@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Meherab
+# > Hello, I'm Meherab
 
-## Systems Engineer & Low-level Developer
+## ⚙️ Systems Engineer & Low-level Developer
 
-## ⚡ Technical Focus
+## » Technical Focus
 
-### 🛠️ Core Stack
+### ▪ Core Stack
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,14 +40,14 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 💡 Expertise
+## » Expertise
 
 - Low-level systems programming
 - Backend infrastructure & optimization
 - Performance-critical applications
 - Linux systems & containerization
 
-## 🚀 Current Focus
+## » Current Focus
 
 Learning, Building robust, efficient systems with a focus on performance and reliability. Passionate about systems programming and low-level optimization.
 
@@ -56,6 +56,6 @@ Learning, Building robust, efficient systems with a focus on performance and rel
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://mistermeherab.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MisterMeherab)
 
-## 💻 Collaboration
+## » Connect & Collaborate
 
 Open for collaboration on systems programming and infrastructure projects.
