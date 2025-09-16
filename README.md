@@ -58,4 +58,4 @@ Learning, Building robust, efficient systems with a focus on performance and rel
 
 ## » Connect & Collaborate
 
-Open for collaboration on systems programming and infrastructure projects.
+Open for collaboration on systems programming and infrastructure projects. Feel free to reach out via GitHub or my website.
