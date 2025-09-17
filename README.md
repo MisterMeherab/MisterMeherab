@@ -54,7 +54,6 @@ Learning, Building robust, efficient systems with a focus on performance and rel
 ---
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://mistermeherab.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MisterMeherab)
 
 ## » Connect & Collaborate
 
