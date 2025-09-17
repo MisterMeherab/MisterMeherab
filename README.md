@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=%3E+Hello%2C+I'm+Meherab)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+&weight=600&size=26&pause=1000&center=true&vCenter=true&width=435&lines=%3E+Hello%2C+I'm+Meherab;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## ⚙️ Systems Engineer & Low-level Developer
 
