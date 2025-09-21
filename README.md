@@ -19,6 +19,8 @@
 **Development Environment**  
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tmux](https://img.shields.io/badge/Tmux-4EAA25?style=for-the-badge&logo=tmux&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-FFFFFF?style=for-the-badge&logo=zsh&logoColor=black)
 
 **Build System**  
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu&logoColor=red)
